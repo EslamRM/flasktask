@@ -1,6 +1,6 @@
-# Newsfeed App
+# Post App
 
-This is a basic implementation of a newsfeed app using Flask and MySQL without ORM, following best practices and adhering to SOLID principles.
+This is a basic implementation of a Post app using Flask and MySQL without ORM, following best practices and adhering to SOLID principles.
 
 ## Setup
 
